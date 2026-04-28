@@ -277,7 +277,7 @@ export default function Oferta3() {
             Se não, te aponto outro caminho.
           </p>
           <a
-            href="mailto:conradobsb@gmail.com?subject=Agendamento%20-%20O%20Cara%20das%20Histórias"
+            href="https://calendar.app.google/a1UTkd3JXmSwwdSF9"
             style={s.ctaBtn}
             onMouseOver={e => e.target.style.opacity = '0.85'}
             onMouseOut={e => e.target.style.opacity = '1'}
