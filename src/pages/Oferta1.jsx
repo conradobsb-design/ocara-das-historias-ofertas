@@ -267,7 +267,7 @@ export default function Oferta1() {
             Sem compromisso, sem pressão, sem oferta na hora.
           </p>
           <a
-            href="https://agendamento.com/conrado"
+            href="mailto:conradobsb@gmail.com?subject=Agendamento%20-%20O%20Cara%20das%20Histórias"
             style={s.ctaBtn}
             onMouseOver={e => e.target.style.opacity = '0.85'}
             onMouseOut={e => e.target.style.opacity = '1'}
