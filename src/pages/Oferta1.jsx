@@ -130,8 +130,8 @@ const weeks = [
   },
   {
     label: 'Semana 2',
-    title: 'Site no ar',
-    desc: 'Site institucional de 1 página publicado: mobile-first, WhatsApp integrado, formulário básico de contato.',
+    title: 'Landing page no ar',
+    desc: 'Landing page institucional publicada: mobile-first, WhatsApp integrado, formulário básico de contato.',
   },
   {
     label: 'Semana 3',
